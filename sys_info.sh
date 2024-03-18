@@ -3,9 +3,7 @@
 # Created by: Chris Power
 # Date: March 14 2024
 
-# Output the uname info for this machine and
-# The machines IP address 
-# The host name 
+# Output the system info for this Linux shell.
 
 echo -e "
 System info:
